@@ -8,7 +8,7 @@
 
 #include "math.h"
 
-int math(int num1, int num2, char Operator)
+int math(int num1, int num2, char Operator) // Returns math result as integer
 {
 	int result = 0;
 	switch(Operator)

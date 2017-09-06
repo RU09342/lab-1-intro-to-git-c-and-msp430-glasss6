@@ -17,7 +17,16 @@
 #ifndef MATH_H_
 #define MATH_H_
 
-//Part of your documentation should be listing the valid inputs and outputs for the functions you create.
 int math(int num1, int num2, char Operator);
+/*
+Num1: Integer 1
+Num2: Integer 2
+Operator: (character) Operation to be performed on two integers
+Valid operations - 
+	'+' add two integers
+	'-' subtract two integers
+	'/' divide two integers
+	'%' modulus two integers
+*/
 
 #endif /* MATH_H_ */
