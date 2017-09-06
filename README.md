@@ -1,5 +1,5 @@
-#Stephen Glass
-##09/06/2017
+# Stephen Glass
+## 09/06/2017
 
 
 # Lab Exercise 1: Introduction to C, Git, and the MSP430
